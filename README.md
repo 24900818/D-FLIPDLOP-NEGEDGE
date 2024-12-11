@@ -52,11 +52,15 @@ RegisterNumber:24900818
     
 **RTL LOGIC FOR FLIPFLOPS**
 
-![Uploading Screenshot (44).png…]()
+![Screenshot (44)](https://github.com/user-attachments/assets/0d8a98cd-c9e5-4328-81b8-4cb92f58d21e)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Uploading Screenshot 2024-12-11 095922.png…]()
 
 
-**RESULTS**
+![Screenshot 2024-12-11 095922](https://github.com/user-attachments/assets/82e664e7-2eeb-4a01-8d18-ba5a44866eef)
+
+ **RESULT**
 Thus Program for flipflops and verify its truth table in quartus using Verilog programming.
+
+ 
